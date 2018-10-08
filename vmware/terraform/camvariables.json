@@ -501,7 +501,7 @@
     {
       "name": "manage_hostname_ip",
       "default": {
-        "icpmedmg166": "10.7.24.167"
+        "icpmedmg167": "10.7.24.167"
               },
       "description": "Management Node Hostname and IP Address",
       "type": "map",
